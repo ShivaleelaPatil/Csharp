@@ -1,0 +1,2 @@
+D:\csharp9\csharp\3NOVInstitute\obj\Debug\Hospital Management.csprojAssemblyReference.cache
+D:\csharp9\csharp\3NOVInstitute\obj\Debug\Hospital Management.csproj.CoreCompileInputs.cache

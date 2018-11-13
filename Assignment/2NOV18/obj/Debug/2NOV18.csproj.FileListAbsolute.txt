@@ -1,0 +1,7 @@
+D:\csharp9\csharp\2NOV18\bin\Debug\2NOV18.exe.config
+D:\csharp9\csharp\2NOV18\bin\Debug\2NOV18.exe
+D:\csharp9\csharp\2NOV18\bin\Debug\2NOV18.pdb
+D:\csharp9\csharp\2NOV18\obj\Debug\2NOV18.csprojAssemblyReference.cache
+D:\csharp9\csharp\2NOV18\obj\Debug\2NOV18.csproj.CoreCompileInputs.cache
+D:\csharp9\csharp\2NOV18\obj\Debug\2NOV18.exe
+D:\csharp9\csharp\2NOV18\obj\Debug\2NOV18.pdb

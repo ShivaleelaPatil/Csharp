@@ -1,0 +1,7 @@
+D:\csharp9\csharp\Nov10\obj\Debug\Nov10.csproj.CoreCompileInputs.cache
+D:\csharp9\csharp\Nov10\bin\Debug\Nov10.exe.config
+D:\csharp9\csharp\Nov10\bin\Debug\Nov10.exe
+D:\csharp9\csharp\Nov10\bin\Debug\Nov10.pdb
+D:\csharp9\csharp\Nov10\obj\Debug\Nov10.exe
+D:\csharp9\csharp\Nov10\obj\Debug\Nov10.pdb
+D:\csharp9\csharp\Nov10\obj\Debug\Nov10.csprojAssemblyReference.cache
