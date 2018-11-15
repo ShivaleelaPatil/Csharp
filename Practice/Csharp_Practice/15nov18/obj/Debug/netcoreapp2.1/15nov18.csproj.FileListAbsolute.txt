@@ -1,0 +1,11 @@
+C:\Users\shivaleela.patil\Desktop\GitHub\Csharp\Practice\Csharp_Practice\15nov18\bin\Debug\netcoreapp2.1\15nov18.deps.json
+C:\Users\shivaleela.patil\Desktop\GitHub\Csharp\Practice\Csharp_Practice\15nov18\bin\Debug\netcoreapp2.1\15nov18.runtimeconfig.json
+C:\Users\shivaleela.patil\Desktop\GitHub\Csharp\Practice\Csharp_Practice\15nov18\bin\Debug\netcoreapp2.1\15nov18.runtimeconfig.dev.json
+C:\Users\shivaleela.patil\Desktop\GitHub\Csharp\Practice\Csharp_Practice\15nov18\bin\Debug\netcoreapp2.1\15nov18.dll
+C:\Users\shivaleela.patil\Desktop\GitHub\Csharp\Practice\Csharp_Practice\15nov18\bin\Debug\netcoreapp2.1\15nov18.pdb
+C:\Users\shivaleela.patil\Desktop\GitHub\Csharp\Practice\Csharp_Practice\15nov18\obj\Debug\netcoreapp2.1\15nov18.csprojAssemblyReference.cache
+C:\Users\shivaleela.patil\Desktop\GitHub\Csharp\Practice\Csharp_Practice\15nov18\obj\Debug\netcoreapp2.1\15nov18.csproj.CoreCompileInputs.cache
+C:\Users\shivaleela.patil\Desktop\GitHub\Csharp\Practice\Csharp_Practice\15nov18\obj\Debug\netcoreapp2.1\15nov18.AssemblyInfoInputs.cache
+C:\Users\shivaleela.patil\Desktop\GitHub\Csharp\Practice\Csharp_Practice\15nov18\obj\Debug\netcoreapp2.1\15nov18.AssemblyInfo.cs
+C:\Users\shivaleela.patil\Desktop\GitHub\Csharp\Practice\Csharp_Practice\15nov18\obj\Debug\netcoreapp2.1\15nov18.dll
+C:\Users\shivaleela.patil\Desktop\GitHub\Csharp\Practice\Csharp_Practice\15nov18\obj\Debug\netcoreapp2.1\15nov18.pdb

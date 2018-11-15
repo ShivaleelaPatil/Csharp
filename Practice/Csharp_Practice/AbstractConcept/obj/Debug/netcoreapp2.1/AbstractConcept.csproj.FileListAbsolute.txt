@@ -1,0 +1,11 @@
+C:\Users\shivaleela.patil\Desktop\GitHub\Csharp\Practice\Csharp_Practice\AbstractConcept\bin\Debug\netcoreapp2.1\AbstractConcept.deps.json
+C:\Users\shivaleela.patil\Desktop\GitHub\Csharp\Practice\Csharp_Practice\AbstractConcept\bin\Debug\netcoreapp2.1\AbstractConcept.runtimeconfig.json
+C:\Users\shivaleela.patil\Desktop\GitHub\Csharp\Practice\Csharp_Practice\AbstractConcept\bin\Debug\netcoreapp2.1\AbstractConcept.runtimeconfig.dev.json
+C:\Users\shivaleela.patil\Desktop\GitHub\Csharp\Practice\Csharp_Practice\AbstractConcept\bin\Debug\netcoreapp2.1\AbstractConcept.dll
+C:\Users\shivaleela.patil\Desktop\GitHub\Csharp\Practice\Csharp_Practice\AbstractConcept\bin\Debug\netcoreapp2.1\AbstractConcept.pdb
+C:\Users\shivaleela.patil\Desktop\GitHub\Csharp\Practice\Csharp_Practice\AbstractConcept\obj\Debug\netcoreapp2.1\AbstractConcept.csprojAssemblyReference.cache
+C:\Users\shivaleela.patil\Desktop\GitHub\Csharp\Practice\Csharp_Practice\AbstractConcept\obj\Debug\netcoreapp2.1\AbstractConcept.csproj.CoreCompileInputs.cache
+C:\Users\shivaleela.patil\Desktop\GitHub\Csharp\Practice\Csharp_Practice\AbstractConcept\obj\Debug\netcoreapp2.1\AbstractConcept.AssemblyInfoInputs.cache
+C:\Users\shivaleela.patil\Desktop\GitHub\Csharp\Practice\Csharp_Practice\AbstractConcept\obj\Debug\netcoreapp2.1\AbstractConcept.AssemblyInfo.cs
+C:\Users\shivaleela.patil\Desktop\GitHub\Csharp\Practice\Csharp_Practice\AbstractConcept\obj\Debug\netcoreapp2.1\AbstractConcept.dll
+C:\Users\shivaleela.patil\Desktop\GitHub\Csharp\Practice\Csharp_Practice\AbstractConcept\obj\Debug\netcoreapp2.1\AbstractConcept.pdb

@@ -1,0 +1,4 @@
+C:\Users\shivaleela.patil\Desktop\GitHub\Csharp\Practice\Csharp_Practice\14Nov2018\obj\Debug\netcoreapp2.1\14Nov2018.csprojAssemblyReference.cache
+C:\Users\shivaleela.patil\Desktop\GitHub\Csharp\Practice\Csharp_Practice\14Nov2018\obj\Debug\netcoreapp2.1\14Nov2018.csproj.CoreCompileInputs.cache
+C:\Users\shivaleela.patil\Desktop\GitHub\Csharp\Practice\Csharp_Practice\14Nov2018\obj\Debug\netcoreapp2.1\14Nov2018.AssemblyInfoInputs.cache
+C:\Users\shivaleela.patil\Desktop\GitHub\Csharp\Practice\Csharp_Practice\14Nov2018\obj\Debug\netcoreapp2.1\14Nov2018.AssemblyInfo.cs

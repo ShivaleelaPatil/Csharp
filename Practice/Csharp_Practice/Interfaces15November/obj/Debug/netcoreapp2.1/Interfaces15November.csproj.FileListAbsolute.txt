@@ -1,0 +1,11 @@
+C:\Users\shivaleela.patil\Desktop\GitHub\Csharp\Practice\Csharp_Practice\Interfaces15November\bin\Debug\netcoreapp2.1\Interfaces15November.deps.json
+C:\Users\shivaleela.patil\Desktop\GitHub\Csharp\Practice\Csharp_Practice\Interfaces15November\bin\Debug\netcoreapp2.1\Interfaces15November.runtimeconfig.json
+C:\Users\shivaleela.patil\Desktop\GitHub\Csharp\Practice\Csharp_Practice\Interfaces15November\bin\Debug\netcoreapp2.1\Interfaces15November.runtimeconfig.dev.json
+C:\Users\shivaleela.patil\Desktop\GitHub\Csharp\Practice\Csharp_Practice\Interfaces15November\bin\Debug\netcoreapp2.1\Interfaces15November.dll
+C:\Users\shivaleela.patil\Desktop\GitHub\Csharp\Practice\Csharp_Practice\Interfaces15November\bin\Debug\netcoreapp2.1\Interfaces15November.pdb
+C:\Users\shivaleela.patil\Desktop\GitHub\Csharp\Practice\Csharp_Practice\Interfaces15November\obj\Debug\netcoreapp2.1\Interfaces15November.csprojAssemblyReference.cache
+C:\Users\shivaleela.patil\Desktop\GitHub\Csharp\Practice\Csharp_Practice\Interfaces15November\obj\Debug\netcoreapp2.1\Interfaces15November.csproj.CoreCompileInputs.cache
+C:\Users\shivaleela.patil\Desktop\GitHub\Csharp\Practice\Csharp_Practice\Interfaces15November\obj\Debug\netcoreapp2.1\Interfaces15November.AssemblyInfoInputs.cache
+C:\Users\shivaleela.patil\Desktop\GitHub\Csharp\Practice\Csharp_Practice\Interfaces15November\obj\Debug\netcoreapp2.1\Interfaces15November.AssemblyInfo.cs
+C:\Users\shivaleela.patil\Desktop\GitHub\Csharp\Practice\Csharp_Practice\Interfaces15November\obj\Debug\netcoreapp2.1\Interfaces15November.dll
+C:\Users\shivaleela.patil\Desktop\GitHub\Csharp\Practice\Csharp_Practice\Interfaces15November\obj\Debug\netcoreapp2.1\Interfaces15November.pdb
