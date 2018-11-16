@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <RootNamespace>_16NOV18</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="HospitalManagement">
+      <HintPath>..\..\..\..\..\dlls\HospitalManagement.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

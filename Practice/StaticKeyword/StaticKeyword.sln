@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaticKeyword", "StaticKeyword\StaticKeyword.csproj", "{A45A1339-DFF5-4AC0-8A46-0DDBD0BCEA5A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Static2", "Static2\Static2.csproj", "{95EA223D-333C-499D-8965-D0B2C1D7D298}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A45A1339-DFF5-4AC0-8A46-0DDBD0BCEA5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A45A1339-DFF5-4AC0-8A46-0DDBD0BCEA5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A45A1339-DFF5-4AC0-8A46-0DDBD0BCEA5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A45A1339-DFF5-4AC0-8A46-0DDBD0BCEA5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95EA223D-333C-499D-8965-D0B2C1D7D298}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95EA223D-333C-499D-8965-D0B2C1D7D298}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95EA223D-333C-499D-8965-D0B2C1D7D298}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95EA223D-333C-499D-8965-D0B2C1D7D298}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B5607DE9-2EA1-4AD7-B3C2-030AAC5A9EFD}
+	EndGlobalSection
+EndGlobal
