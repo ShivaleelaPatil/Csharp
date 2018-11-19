@@ -1,0 +1,10 @@
+Log File
+Date and time-> 11/19/2018 8:13:44 PM
+Error-> Attempted to divide by zero.
+Stack Trace->   at _17nov2018.Division.division(Int32 num1, Int32 num2) in C:\Users\shivaleela.patil\Desktop\GitHub\Csharp\Practice\17nov2018\17nov2018\Program.cs:line 297
+end time-> 11/19/2018 8:13:44 PM
+Log File
+Date and time-> 11/19/2018 8:16:13 PM
+Error-> Exception of type '_17nov2018.DoctorIdNotFoundException' was thrown.
+Stack Trace->   at _17nov2018.Doctor.DoctorDetails() in C:\Users\shivaleela.patil\Desktop\GitHub\Csharp\Practice\17nov2018\17nov2018\Program.cs:line 231
+end time-> 11/19/2018 8:16:13 PM
